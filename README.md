@@ -89,3 +89,4 @@ Please read the contribution guidelines before submitting pull requests.
 
 ## License
 ISC License
+# BetaEarn
