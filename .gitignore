@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sensitive configuration
+*.pem
+*.key
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Upload directories (if they contain user-uploaded content)
+uploads/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
